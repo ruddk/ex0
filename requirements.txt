@@ -1,11 +1,2 @@
-PyQt5
-os
-shutil
-subprocess
-sys
-json
-ctypes
-tempfile
-uuid
-functools
-pywin32
+pywin32==308
+pywin32==310
