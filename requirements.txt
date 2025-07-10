@@ -8,4 +8,4 @@ ctypes
 tempfile
 uuid
 functools
-win32com
+pywin32
